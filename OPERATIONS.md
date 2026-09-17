@@ -49,7 +49,7 @@ docker compose logs --tail=100 grafana
 Scrub logs before sharing. Do not delete volumes to resolve login or empty-chart
 issues: the Grafana and Prometheus volumes contain persistent state.
 
-## Development note
+## Attribution
 
-This troubleshooting guide was added with AI assistance. Upstream code,
+Upstream code,
 licenses and contributor attribution remain unchanged.
